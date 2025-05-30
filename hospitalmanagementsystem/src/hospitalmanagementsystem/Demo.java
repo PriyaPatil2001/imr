@@ -6,6 +6,11 @@ public class Demo {
 	    	
    	  System.out.println("add method");
    }
+
+	public void sub(){
+
+		System.out.println("sub method");
+	}
 	   
 
 }
